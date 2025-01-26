@@ -25,7 +25,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Marwin2002/BRANDEDSTRINGHACK"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ben10op/BRANDEDSTRINGHACK"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WCGKING&show_icons=true&locale=en&layout=compact" alt="WCGKING" /></p>
 
