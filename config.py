@@ -2,5 +2,5 @@
 class Config:
     API_ID = "27758016"
     API_HASH = "8d34cfffe27ab461eabbf0091b1a27df"
-    TOKEN = "7808172723:AAFCRy-9KG0m_ofcyNevtEI0fzBekSvweRU"
+    TOKEN = "7948955575:AAEJMXiNwUdiOQ_KhPjsB2insS2U-NLY5aQ"
     START_PIC = "https://envs.sh/5gF.jpg"
